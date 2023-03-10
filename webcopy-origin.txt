@@ -1,0 +1,960 @@
+Uri: http://starkbilisim.com/wp-content/uploads/2022/10/Untitled-4.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\uploads\2022\10\Untitled-4.png
+Content Type: image/png
+
+Uri: http://starkbilisim.com/wp-content/uploads/2022/11/Iron-Man-3-Fan-Art_-Iron-Man-gifs.gif
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\uploads\2022\11\Iron-Man-3-Fan-Art_-Iron-Man-gifs.gif
+Content Type: image/gif
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&subset=latin-ext&ver=6.0.3
+File Name: C:\Downloaded Web Sites\starkbilisim.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:500|Roboto:400|Poppins:600&display=swap&ver=1675599869
+File Name: C:\Downloaded Web Sites\starkbilisim.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:300%2C400%2C500%2C600%2C700|Roboto:300%2C400%2C500%2C700%2C900&ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0ow.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0ow.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0ow.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0ow.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0ow.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0ow.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0ow.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0ow.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0ow.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aX8.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aX8.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aX8.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aX8.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aX8.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aX8.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aX8.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aX8.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aX8.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEz4dKg.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEz4dKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc0CsE.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc0CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc0CsE.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc0CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc0CsE.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc0CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic0CsE.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic0CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxGIzc.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxGIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xGIzc.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xGIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fChc9.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fChc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fChc9.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fChc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfChc9.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfChc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfChc9.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfChc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7GxP.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\roboto\v30\KFOmCnqEu92Fr1Mu7GxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmYWRm.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmYWRm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OmYWRm.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OmYWRm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmYWRm.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmYWRm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmYWRm.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmYWRm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmYWRm.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmYWRm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmYWRm.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmYWRm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmYWRm.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmYWRm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmYWRm.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmYWRm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmYWRm.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmYWRm.ttf
+Content Type: font/ttf
+
+Uri: https://starkbilisim.com/
+File Name: C:\Downloaded Web Sites\starkbilisim.com\index.htm
+Content Type: text/html
+
+Uri: https://starkbilisim.com/comments/feed/
+File Name: C:\Downloaded Web Sites\starkbilisim.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://starkbilisim.com/contact/
+File Name: C:\Downloaded Web Sites\starkbilisim.com\contact\index.htm
+Content Type: text/html
+
+Uri: https://starkbilisim.com/feed/
+File Name: C:\Downloaded Web Sites\starkbilisim.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://starkbilisim.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.3
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.3
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.3
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/plugins/digeco-core/optimizer/js/jquery.passive.event.js?ver=1.0
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\digeco-core\optimizer\js\jquery.passive.event.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.7.3
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.7.3
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor-pro/assets/js/page-transitions.min.js?ver=3.7.3
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor-pro\assets\js\page-transitions.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.7.3
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor-pro/assets/lib/instant-page/instant-page.min.js?ver=3.7.3
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor-pro\assets\lib\instant-page\instant-page.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.7.7
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.7.7
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.7.7
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.7.7
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.16.0
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.16.0
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.16.0
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.16.0
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.16.0
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.16.0
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.9.34
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=2.7.0
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=2.7.0
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementskit-lite\libs\framework\assets\js\frontend-script.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=2.7.0
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\css\ekiticons.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/fonts/elementskit.woff?y24e1e
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\fonts\elementskit.woff
+Content Type: font/woff
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=2.7.0
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=2.7.0
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\widget-styles.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\arrow.png
+Content Type: image/png
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/cross-out.svg
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\cross-out.svg
+Content Type: image/svg+xml
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc.png
+Content Type: image/png
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc_disabled.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc_disabled.png
+Content Type: image/png
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_desc.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_desc.png
+Content Type: image/png
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.js?ver=2.7.0
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\animate-circle.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=2.7.0
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\elementor.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=2.7.0
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\widget-scripts.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementskit/modules/parallax/assets/css/style.css?ver=2.7.0
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementskit\modules\parallax\assets\css\style.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementskit/modules/parallax/assets/js/jarallax.js?ver=2.7.0
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementskit\modules\parallax\assets\js\jarallax.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementskit/modules/parallax/assets/js/parallax-admin-scripts.js?ver=2.7.0
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementskit\modules\parallax\assets\js\parallax-admin-scripts.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementskit/modules/parallax/assets/js/parallax-frontend-scripts.js?ver=2.7.0
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementskit\modules\parallax\assets\js\parallax-frontend-scripts.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementskit/modules/pro-form-reset-button/assets/css/elementskit-reset-button.css?ver=2.7.0
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementskit\modules\pro-form-reset-button\assets\css\elementskit-reset-button.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementskit/modules/pro-form-reset-button/assets/js/elementskit-reset-button.js?ver=2.7.0
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementskit\modules\pro-form-reset-button\assets\js\elementskit-reset-button.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementskit/modules/sticky-content/assets/js/elementskit-sticky-content.js?ver=2.7.0
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementskit\modules\sticky-content\assets\js\elementskit-sticky-content.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementskit/widgets/init/assets/css/widget-styles-pro.css?ver=2.7.0
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementskit\widgets\init\assets\css\widget-styles-pro.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/plugins/elementskit/widgets/init/assets/js/elementor.js?ver=2.7.0
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\elementskit\widgets\init\assets\js\elementor.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=5.3.2
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\css\view\general.min.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=5.3.2
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\js\view\general.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/plugins/revslider/public/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\revslider\public\assets\fonts\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://starkbilisim.com/wp-content/plugins/royal-elementor-addons/assets/css/frontend.min.css?ver=1.3.49
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\royal-elementor-addons\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/plugins/royal-elementor-addons/assets/css/lib/animations/text-animations.min.css?ver=1.3.49
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\royal-elementor-addons\assets\css\lib\animations\text-animations.min.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/plugins/royal-elementor-addons/assets/js/frontend.min.js?ver=1.3.49
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\royal-elementor-addons\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/jarallax/jarallax.min.js?ver=1.12.7
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\royal-elementor-addons\assets\js\lib\jarallax\jarallax.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/parallax/parallax.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\royal-elementor-addons\assets\js\lib\parallax\parallax.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/particles/particles.js?ver=3.0.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\royal-elementor-addons\assets\js\lib\particles\particles.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/plugins/royal-elementor-addons/assets/js/modal-popups.min.js?ver=1.3.49
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\plugins\royal-elementor-addons\assets\js\modal-popups.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/css/animate.min.css?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/css/bootstrap.min.css?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/css/default.css?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\css\default.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/css/elementor.css?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\css\elementor.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/css/font-awesome.min.css?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/css/jquery.timepicker.min.css?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\css\jquery.timepicker.min.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/css/magnific-popup.css?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/css/nivo-slider.min.css?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\css\nivo-slider.min.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/css/owl.carousel.min.css?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/css/owl.theme.default.min.css?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\css\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/css/rtanimation.css?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\css\rtanimation.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/css/select2.min.css?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\css\select2.min.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/css/style.css?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\css\style.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/element/element2.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\element\element2.png
+Content Type: image/png
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/element/element74.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\element\element74.png
+Content Type: image/png
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/element/element75.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\element\element75.png
+Content Type: image/png
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/fonts/flaticon-digeco/flaticon.css?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\fonts\flaticon-digeco\flaticon.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/fonts/flaticon-digeco/Flaticon.eot
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\fonts\flaticon-digeco\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/fonts/flaticon-digeco/Flaticon.eot?
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\fonts\flaticon-digeco\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/fonts/flaticon-digeco/Flaticon.svg
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\fonts\flaticon-digeco\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/fonts/flaticon-digeco/Flaticon.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\fonts\flaticon-digeco\Flaticon.ttf
+Content Type: font/ttf
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/fonts/flaticon-digeco/Flaticon.woff
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\fonts\flaticon-digeco\Flaticon.woff
+Content Type: font/woff
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/fonts/flaticon-digeco/Flaticon.woff2
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\fonts\flaticon-digeco\Flaticon.woff2
+Content Type: font/woff2
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/img/element55.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\img\element55.png
+Content Type: image/png
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/img/footer1_bg.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\img\footer1_bg.png
+Content Type: image/png
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/img/footer2_bg.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\img\footer2_bg.png
+Content Type: image/png
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/img/svg1.svg
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\img\svg1.svg
+Content Type: image/svg+xml
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/img/svg2.svg
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\img\svg2.svg
+Content Type: image/svg+xml
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/img/svg3.svg
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\img\svg3.svg
+Content Type: image/svg+xml
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/img/svg4.svg
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\img\svg4.svg
+Content Type: image/svg+xml
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/js/bootstrap.min.js?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/js/isotope.pkgd.min.js?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/js/jquery.countdown.min.js?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\js\jquery.countdown.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/js/jquery.counterup.min.js?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\js\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/js/jquery.magnific-popup.min.js?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/js/jquery.navpoints.js?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\js\jquery.navpoints.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/js/jquery.nivo.slider.min.js?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\js\jquery.nivo.slider.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/js/jquery.parallax-scroll.js?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\js\jquery.parallax-scroll.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/js/jquery.timepicker.min.js?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\js\jquery.timepicker.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/js/js.cookie.min.js?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\js\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/js/main.js?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/js/owl.carousel.min.js?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/js/popper.js?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\js\popper.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/js/select2.min.js?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\js\select2.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/js/theia-sticky-sidebar.min.js?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\js\theia-sticky-sidebar.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/js/tilt.jquery.js?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\js\tilt.jquery.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/js/waypoints.min.js?ver=1.7.6
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\js\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://starkbilisim.com/wp-content/themes/digeco/assets/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\themes\digeco\assets\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://starkbilisim.com/wp-content/uploads/2020/01/about2.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\uploads\2020\01\about2.png
+Content Type: image/png
+
+Uri: https://starkbilisim.com/wp-content/uploads/2020/01/feature1.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\uploads\2020\01\feature1.png
+Content Type: image/png
+
+Uri: https://starkbilisim.com/wp-content/uploads/2020/01/feature2.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\uploads\2020\01\feature2.png
+Content Type: image/png
+
+Uri: https://starkbilisim.com/wp-content/uploads/2020/01/feature3.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\uploads\2020\01\feature3.png
+Content Type: image/png
+
+Uri: https://starkbilisim.com/wp-content/uploads/2020/01/illustration21-300x226.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\uploads\2020\01\illustration21-300x226.png
+Content Type: image/png
+
+Uri: https://starkbilisim.com/wp-content/uploads/2020/01/illustration21-530x400.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\uploads\2020\01\illustration21-530x400.png
+Content Type: image/png
+
+Uri: https://starkbilisim.com/wp-content/uploads/2020/01/illustration21.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\uploads\2020\01\illustration21.png
+Content Type: image/png
+
+Uri: https://starkbilisim.com/wp-content/uploads/2020/01/process1.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\uploads\2020\01\process1.png
+Content Type: image/png
+
+Uri: https://starkbilisim.com/wp-content/uploads/2020/01/testimonial1.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\uploads\2020\01\testimonial1.png
+Content Type: image/png
+
+Uri: https://starkbilisim.com/wp-content/uploads/2020/01/testimonial2.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\uploads\2020\01\testimonial2.png
+Content Type: image/png
+
+Uri: https://starkbilisim.com/wp-content/uploads/2022/10/cropped-favicon-180x180.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\uploads\2022\10\cropped-favicon-180x180.png
+Content Type: image/png
+
+Uri: https://starkbilisim.com/wp-content/uploads/2022/10/cropped-favicon-192x192.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\uploads\2022\10\cropped-favicon-192x192.png
+Content Type: image/png
+
+Uri: https://starkbilisim.com/wp-content/uploads/2022/10/cropped-favicon-32x32.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\uploads\2022\10\cropped-favicon-32x32.png
+Content Type: image/png
+
+Uri: https://starkbilisim.com/wp-content/uploads/2022/10/Googlelogo.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\uploads\2022\10\Googlelogo.png
+Content Type: image/png
+
+Uri: https://starkbilisim.com/wp-content/uploads/2022/10/kae.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\uploads\2022\10\kae.png
+Content Type: image/png
+
+Uri: https://starkbilisim.com/wp-content/uploads/2022/10/Oriflamelogo.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\uploads\2022\10\Oriflamelogo.png
+Content Type: image/png
+
+Uri: https://starkbilisim.com/wp-content/uploads/2022/10/Starklogoblack.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\uploads\2022\10\Starklogoblack.png
+Content Type: image/png
+
+Uri: https://starkbilisim.com/wp-content/uploads/2022/10/starklogoyeni1pngwhitee.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\uploads\2022\10\starklogoyeni1pngwhitee.png
+Content Type: image/png
+
+Uri: https://starkbilisim.com/wp-content/uploads/2022/10/Untitled-2.png
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\uploads\2022\10\Untitled-2.png
+Content Type: image/png
+
+Uri: https://starkbilisim.com/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1675599800
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\uploads\elementor\css\custom-frontend.min.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/uploads/elementor/css/custom-pro-frontend.min.css?ver=1675599800
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\uploads\elementor\css\custom-pro-frontend.min.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/uploads/elementor/css/post-11.css?ver=1675764335
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\uploads\elementor\css\post-11.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/uploads/elementor/css/post-126.css?ver=1675599802
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\uploads\elementor\css\post-126.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-content/uploads/elementor/css/post-2504.css?ver=1675599800
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-content\uploads\elementor\css\post-2504.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.3
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://starkbilisim.com/wp-includes/js/dist/hooks.min.js?ver=c6d64f2cb8f5c6bb49caca37f8828ce3
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-includes/js/dist/i18n.min.js?ver=ebee46757c6a411e38fd079a7ac71d94
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-includes/js/masonry.min.js?ver=4.2.2
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-includes\js\masonry.min.js
+Content Type: application/javascript
+
+Uri: https://starkbilisim.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://starkbilisim.com/wp-json/
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://starkbilisim.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fstarkbilisim.com%2F
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://starkbilisim.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fstarkbilisim.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://starkbilisim.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fstarkbilisim.com%2Fcontact%2F
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://starkbilisim.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fstarkbilisim.com%2Fcontact%2F&format=xml
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://starkbilisim.com/wp-json/wp/v2/pages/11
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-json\wp\v2\pages\11
+Content Type: application/json
+
+Uri: https://starkbilisim.com/wp-json/wp/v2/pages/126
+File Name: C:\Downloaded Web Sites\starkbilisim.com\wp-json\wp\v2\pages\126
+Content Type: application/json
+
+Uri: https://starkbilisim.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\starkbilisim.com\xmlrpc.php
+Content Type: text/xml
+
